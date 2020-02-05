@@ -1,7 +1,7 @@
 """
-@author: Rodrigo Rangel
-
-@description: * This script focuses on implementing thr pyodbc 
+Title: DB2 Connection
+Author: Rodrigo Rangel
+Description: * This script focuses on implementing thr pyodbc 
                 library to connect to an existing DB2 database
               * Below the following are covered:
                   1. SQL Connection
